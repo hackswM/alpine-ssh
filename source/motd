@@ -1,0 +1,10 @@
+
+Welcome to Alpine Linux Docker-Container Enviroment !
+
+DockerImage: ilemonrain/alpine-sshd:latest
+Buildtime:   20180901
+Author:      iLemonrain <ilemonrain@ilemonrain.com>
+Blog:        https://blog.ilemonrain.com/
+Docker Hub:  https://hub.docker.com/r/ilemonrain/alpine-sshd/
+
+Enjoy your Docker-Based Linux ! OwO
